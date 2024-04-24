@@ -68,9 +68,6 @@
    
 7. Access the application via your browser at http://localhost:8080/.
 
-## Screenshots
-
-tbd
 
 ## Contribution
 
